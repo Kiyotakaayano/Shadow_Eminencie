@@ -25,7 +25,7 @@ Extraer enlaces de paginas web, asi como dominios y subdominios, es una de las p
 
 ## INSTALACION
 
-- git clone https://github.com/RealStrategy/HOST-EXTRACTOR4.git
+- git clone https//:Kiyotakaayano/Shadow_Eminencie.git
 - cd Shadow_Eminencie
 - chmod +x Shadow.py
 - python3 Shadow.py
