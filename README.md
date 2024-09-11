@@ -25,7 +25,7 @@ Extraer enlaces de paginas web, asi como dominios y subdominios, es una de las p
 
 ## INSTALACION
 
-- git clone https//:Kiyotakaayano/Shadow_Eminencie.git
+- git clone https://github.com/Kiyotakaayano/Shadow_Eminencie.git
 - cd Shadow_Eminencie
 - chmod +x Shadow.py
 - python3 Shadow.py
