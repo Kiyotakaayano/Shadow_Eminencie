@@ -145,7 +145,7 @@ def extraer_subdominios():
 
 def generar_payload():   
     time.sleep(1)
-    os.system("python3 .payload.py")      
+    os.system("python3 payload.py")      
 
 def verificar_estado_hosts():
     archivo = "hosts.txt"
@@ -192,7 +192,7 @@ def ejecutar_opcion(opcion):
         extraer_subdominios()
     elif opcion == 3:
         print("")
-        os.system("python3 .dns.py")
+        os.system("python3 dns.py")
     elif opcion == 4:
         print("\033[32m")
         verificar_estado_hosts()
